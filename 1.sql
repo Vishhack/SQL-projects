@@ -14,7 +14,6 @@ The OCCUPATIONS table is described as follows:
 */
 
 
-
 SELECT CONCAT(name, '(', LEFT(occupation, 1), ')') AS formatted_name
 FROM OCCUPATIONS
 ORDER BY name ASC;
