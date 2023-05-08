@@ -14,4 +14,3 @@ Note: NULL values are not counted.
 8. LPAD(string, length, lpad_string) --- function left-pads a string with another string, to a certain length.
 9. RPAD(string, length, rpad_string) --- function right-pads a string with another string, to a certain length.
 
-
